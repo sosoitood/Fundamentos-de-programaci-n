@@ -9,3 +9,6 @@ Los archivos hasta el momento son:
 3. Actividad 2.
 4. Ejercicios extras evaluables semana 2
 5. Avance del proyecto.
+6. Actividad 4.
+7. Ejercicios extra semana 4 
+
