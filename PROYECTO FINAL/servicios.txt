@@ -1,0 +1,6 @@
+Natural | 450.00
+Social | 600.00
+Noche | 750.00
+Novia | 1200.00
+XV años | 900.00
+Artístico | 850.00

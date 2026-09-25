@@ -1,0 +1,15 @@
+╔══════════════ AZH | TICKET DE CITA ══════════════╗
+Estado: PENDIENTE DE PAGO
+Cliente: Daniela
+Fecha: 22/10/2027
+Hora: 11:00
+Servicio: Artístico
+Marcas seleccionadas: Rare Beauty, Yves Saint Laurent
+Precio del servicio: 850.00 MXN
+Depósito previo (50%): 425.00 MXN
+Saldo para el día de la cita: 425.00 MXN
+Pago del saldo: tarjeta o efectivo, el día de la cita.
+Deposita el anticipo a la cuenta con clave: 67676767.
+Envía el comprobante a AZH; este ticket no acredita un pago.
+Referencia para el depósito: 2027-10-22_Daniela
+╚════════════════════════════════════════════════╝

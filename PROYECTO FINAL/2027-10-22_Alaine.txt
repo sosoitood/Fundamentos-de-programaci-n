@@ -1,0 +1,15 @@
+╔══════════════ AZH | TICKET DE CITA ══════════════╗
+Estado: CITA CANCELADA
+Cliente: Alaine
+Fecha: 22/10/2027
+Hora: 12:00
+Servicio: Natural
+Marcas seleccionadas: MAC
+Precio del servicio: 450.00 MXN
+Depósito previo (50%): 225.00 MXN
+Saldo para el día de la cita: 225.00 MXN
+Pago del saldo: tarjeta o efectivo, el día de la cita.
+Deposita el anticipo a la cuenta con clave: 67676767.
+Envía el comprobante a AZH; este ticket no acredita un pago.
+Referencia para el depósito: 2027-10-22_Alaine
+╚════════════════════════════════════════════════╝

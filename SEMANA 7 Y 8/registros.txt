@@ -1,0 +1,2 @@
+el nombre del usuario es: kenia
+la edad del usuario es: 22
