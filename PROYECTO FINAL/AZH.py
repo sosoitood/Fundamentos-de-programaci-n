@@ -20,6 +20,7 @@ INICIALES = {
         "Benefit",
         "Estee Lauder",
         "Yves Saint Laurent"
+        "MakeUp by Mario"
     ],
     "notas.txt": [
         "Llegar 10 minutos antes.",
